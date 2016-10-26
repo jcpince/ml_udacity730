@@ -1,3 +1,4 @@
+```text
 The script notmnist_utils.py is a helper allowing to manipulate the datasets
 found in ../data (nomnist training, valid and test).
 
@@ -24,3 +25,4 @@ Typical usage:
   show_image_index(ds_name, index)
   # where ds_name can be 'train', 'valid' or 'test'
   # and index is an element of bad_pred
+```
